@@ -10,7 +10,7 @@ git clone https://github.com/HatmanW/TaskTrackerExpansion
 ```
 
 ## Getting Started
-To run my awesome app simply,
+To run Task Tracker,
 ```bash
 docker-compose up
 ```
