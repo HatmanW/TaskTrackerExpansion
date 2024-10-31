@@ -1,7 +1,10 @@
 User Stories
-1. As a User, I want to be able to add tasks, so I can creat a matrix 
-2. As a User, I want to be able to delete tasks, so I can upate the matrix to be the most accurate
+0. As a User, I want to be able to read tasks, so that I can read my tasks.
+1. As a User, I want to be able to add tasks, so I can create a matrix. 
+2. As a User, I want to be able to delete tasks, so I can update the matrix to be the most accurate.
 3. As a User, I want to be able to update the prioity of a task, so I can tell what tasks are the most important
+4. As a User, I want to be able to update my task information, so I can edit my tasks accordingly to my situation. 
+5. 
 
 Mis User Stories
 1. 
