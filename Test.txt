@@ -1,1 +1,3 @@
 This is a test Doc
+
+Note: This was us testing to make sure Tyler could commit to the repo. 
