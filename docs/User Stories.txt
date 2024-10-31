@@ -1,10 +1,27 @@
 User Stories
+As a user/role, I want to goal so I can rationale.
 0. As a User, I want to be able to read tasks, so that I can read my tasks.
 1. As a User, I want to be able to add tasks, so I can create a matrix. 
 2. As a User, I want to be able to delete tasks, so I can update the matrix to be the most accurate.
 3. As a User, I want to be able to update the prioity of a task, so I can tell what tasks are the most important
 4. As a User, I want to be able to update my task information, so I can edit my tasks accordingly to my situation. 
-5. 
+5. As a User, I want to be able to log in/log out so my task tracking is only showing my tasks. 
+6. As a user, I want to be able to integrate with github projects. 
 
-Mis User Stories
+User stories Acceptance criteria 
+0. As a User, I want to be able to read tasks, so that I can read my tasks.
+  Acceptance criteria: 
+1. As a User, I want to be able to add tasks, so I can create a matrix. 
+  Acceptance criteria: 
+2. As a User, I want to be able to delete tasks, so I can update the matrix to be the most accurate.
+  Acceptance criteria: 
+3. As a User, I want to be able to update the prioity of a task, so I can tell what tasks are the most important
+  Acceptance criteria: 
+4. As a User, I want to be able to update my task information, so I can edit my tasks accordingly to my situation. 
+  Acceptance criteria: 
+5. As a User, I want to be able to log in/log out so my task tracking is only showing my tasks. 
+
+Mis-user stories
+In addition to the user stories identify the ways in which users might be able to mis-use your app. Mis-user stories are just like user stories except the user, goal, and rationale are malicious.
+
 1. 
