@@ -26,11 +26,11 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-##User Stories
+## User Stories
 User-Stories
 The user stories identify a user role, goal, and rationale that dictates a user’s behavior in the product to be created or assessed.
 
-#User Stories
+# User Stories
 As a user/role, I want to goal so I can rationale.
 0. As a User, I want to be able to read tasks, so that I can read my tasks.
 1. As a User, I want to be able to add tasks, so I can create a matrix. 
@@ -42,7 +42,7 @@ As a user/role, I want to goal so I can rationale.
 7. As a User, I want to be able to check off my tasks, and place them in a completed tasks section for review. 
 8. As a User, I want to be able to review my tasks that I have checked off. 
 
-#User stories Acceptance criteria 
+# User stories Acceptance criteria 
 0. As a User, I want to be able to read tasks, so that I can read my tasks.
   Acceptance criteria: If logged in user can view their tasks effectively.
 1. As a User, I want to be able to add tasks, so I can create a matrix. 
@@ -62,7 +62,7 @@ As a user/role, I want to goal so I can rationale.
 8. As a User, I want to be able to review my tasks that I have checked off. 
   Acceptance criteria: If the user can read and edit completed tasks. 
 
-#Mis-user stories
+# Mis-user stories
 In addition to the user stories identify the ways in which users might be able to mis-use your app. Mis-user stories are just like user stories except the user, goal, and rationale are malicious.
 
 0. 
