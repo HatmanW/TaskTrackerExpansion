@@ -44,23 +44,31 @@ As a user/role, I want to goal so I can rationale.
 
 # User stories Acceptance criteria 
 0. As a User, I want to be able to read tasks, so that I can read my tasks.
-  Acceptance criteria: If logged in user can view their tasks effectively.
+Acceptance criteria: If logged in user can view their tasks effectively.
+
 1. As a User, I want to be able to add tasks, so I can create a matrix. 
-  Acceptance criteria: If logged in user can add a task to a particular category. 
-2. As a User, I want to be able to delete tasks, so I can update the matrix to be the most accurate.
-  Acceptance criteria: If logged in user can can delete a task that is no longer relevent. 
-3. As a User, I want to be able to update the prioity of a task, so I can tell what tasks are the most important
-  Acceptance criteria: If logged in user can update where their task belongs in the task matrix. 
-4. As a User, I want to be able to update my task information, so I can edit my tasks accordingly to my situation. 
-  Acceptance criteria: If logged in user can chante their task information individually. 
-5. As a User, I want to be able to log in/log out so my task tracking is only showing my tasks. 
-  Acceptance criteria: If logged in user can log in, and log out. 
-6. As a user, I want to be able to integrate with github projects. 
-  Acceptance criteria: If a logged in user can see the tasks on github projects. 
-7. As a User, I want to be able to check off my tasks. 
-  Acceptance criteria: If a logged in user can check and uncheck tasks as completed or in progress. 
-8. As a User, I want to be able to review my tasks that I have checked off. 
-  Acceptance criteria: If the user can read and edit completed tasks. 
+Acceptance criteria: If logged in user can add a task to a particular category.
+
+3. As a User, I want to be able to delete tasks, so I can update the matrix to be the most accurate.
+Acceptance criteria: If logged in user can can delete a task that is no longer relevent.
+
+5. As a User, I want to be able to update the prioity of a task, so I can tell what tasks are the most important
+Acceptance criteria: If logged in user can update where their task belongs in the task matrix.
+  
+6. As a User, I want to be able to update my task information, so I can edit my tasks accordingly to my situation. 
+Acceptance criteria: If logged in user can chante their task information individually.
+
+8. As a User, I want to be able to log in/log out so my task tracking is only showing my tasks. 
+Acceptance criteria: If logged in user can log in, and log out.
+
+10. As a user, I want to be able to integrate with github projects. 
+Acceptance criteria: If a logged in user can see the tasks on github projects.
+
+12. As a User, I want to be able to check off my tasks. 
+Acceptance criteria: If a logged in user can check and uncheck tasks as completed or in progress.
+
+14. As a User, I want to be able to review my tasks that I have checked off. 
+Acceptance criteria: If the user can read and edit completed tasks. 
 
 # Mis-user stories
 In addition to the user stories identify the ways in which users might be able to mis-use your app. Mis-user stories are just like user stories except the user, goal, and rationale are malicious.
