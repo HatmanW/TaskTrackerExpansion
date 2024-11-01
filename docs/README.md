@@ -30,7 +30,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 User-Stories
 The user stories identify a user role, goal, and rationale that dictates a user’s behavior in the product to be created or assessed.
 
-User Stories
+#User Stories
 As a user/role, I want to goal so I can rationale.
 0. As a User, I want to be able to read tasks, so that I can read my tasks.
 1. As a User, I want to be able to add tasks, so I can create a matrix. 
@@ -42,7 +42,7 @@ As a user/role, I want to goal so I can rationale.
 7. As a User, I want to be able to check off my tasks, and place them in a completed tasks section for review. 
 8. As a User, I want to be able to review my tasks that I have checked off. 
 
-User stories Acceptance criteria 
+#User stories Acceptance criteria 
 0. As a User, I want to be able to read tasks, so that I can read my tasks.
   Acceptance criteria: If logged in user can view their tasks effectively.
 1. As a User, I want to be able to add tasks, so I can create a matrix. 
@@ -62,7 +62,7 @@ User stories Acceptance criteria
 8. As a User, I want to be able to review my tasks that I have checked off. 
   Acceptance criteria: If the user can read and edit completed tasks. 
 
-Mis-user stories
+#Mis-user stories
 In addition to the user stories identify the ways in which users might be able to mis-use your app. Mis-user stories are just like user stories except the user, goal, and rationale are malicious.
 
 0. 
