@@ -20,7 +20,7 @@ User-Stories The user stories identify a user role, goal, and rationale that dic
 # User Stories
 As a user/role, I want to goal so I can rationale. 0. As a User, I want to be able to read tasks, so that I can read my tasks.
 
-```
+
 1.	As a User, I want to be able to add tasks, so I can create a matrix.
 2.	As a User, I want to be able to delete tasks, so I can update the matrix to be the most accurate.
 3.	As a User, I want to be able to update the prioity of a task, so I can tell what tasks are the most important
@@ -29,11 +29,11 @@ As a user/role, I want to goal so I can rationale. 0. As a User, I want to be ab
 6.	As a user, I want to be able to integrate with github projects.
 7.	As a User, I want to be able to check off my tasks, and place them in a completed tasks section for review.
 8.	As a User, I want to be able to review my tasks that I have checked off.
-```
+
 
 # User stories Acceptance criteria
 Acceptance Crieteria is 
-```
+
 1.	As a User, I want to be able to read tasks, so that I can read my tasks.
 
 1.1.	 Acceptance criteria: If logged in user can view their tasks effectively.
@@ -69,22 +69,22 @@ Acceptance Crieteria is
 9.	As a User, I want to be able to review my tasks that I have checked off. 
 
 9.1.	 Acceptance criteria: If the user can read and edit completed tasks.
-```
+
 
 # Mis-user stories
 In addition to the user stories identify the ways in which users might be able to mis-use your app. Mis-user stories are just like user stories except the user, goal, and rationale are malicious.
 
-```
+
 1.	As a malicious user, I want to log in to someone elses acount, to change their tasks.
 2.	As a malicious user, I want to intercept communication with a Machine in the Middle attack. 
 3.	As a malicious user, I want to inject SQL commands that will allow manipulation of the database
 4.	As a malicious user, I want to use the API endpoints so retrieve or manipulate data I’m not supposed to have access to. 
 5.	As a malicious user, Weak Password Exploit
-```
+
 
 # Mis-User stories acceptance criterial 
 Acceptance Criteria for Mis-User stories is going to end up a bit different, as we’ll define a clear success case from a mis user, as well as a defense against that malicious action. 
-```
+
 1.	As a malicious user, I want to log in to someone else’s account, to change their tasks.
    
 1.1.	Acceptance Criteria: Malicious User successfully uses stolen Credentials to access someone else’s account
@@ -144,7 +144,7 @@ Acceptance Criteria for Mis-User stories is going to end up a bit different, as 
 5.1.2.	Disallow bad passwords – common passwords and passwords that repeat the username, or fail to meet a certain criteria. 
 
 5.1.3.	Password Rotation – change the password fully every 3 months. Don’t allow the same password. 
-```
+
 
 # License
 The MIT License (MIT)
