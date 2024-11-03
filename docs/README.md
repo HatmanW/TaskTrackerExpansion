@@ -26,65 +26,74 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-## User Stories
-User-Stories
-The user stories identify a user role, goal, and rationale that dictates a user’s behavior in the product to be created or assessed.
-
-
-
-# User Stories
-As a user/role, I want to goal so I can rationale.
-0. As a User, I want to be able to read tasks, so that I can read my tasks.
-1. As a User, I want to be able to add tasks, so I can create a matrix. 
-2. As a User, I want to be able to delete tasks, so I can update the matrix to be the most accurate.
-3. As a User, I want to be able to update the prioity of a task, so I can tell what tasks are the most important
-4. As a User, I want to be able to update my task information, so I can edit my tasks accordingly to my situation. 
-5. As a User, I want to be able to log in/log out so my task tracking is only showing my tasks. 
-6. As a user, I want to be able to integrate with github projects. 
-7. As a User, I want to be able to check off my tasks, and place them in a completed tasks section for review. 
-8. As a User, I want to be able to review my tasks that I have checked off. 
-
-# User stories Acceptance criteria 
-0. As a User, I want to be able to read tasks, so that I can read my tasks.
-
-0AC: Acceptance criteria: If logged in user can view their tasks effectively.
-
-1. As a User, I want to be able to add tasks, so I can create a matrix.
-   
-1AC: Acceptance criteria: If logged in user can add a task to a particular category.
-
-2. As a User, I want to be able to delete tasks, so I can update the matrix to be the most accurate.
-
-2AC. Acceptance criteria: If logged in user can can delete a task that is no longer relevent.
-
-3. As a User, I want to be able to update the prioity of a task, so I can tell what tasks are the most important
-
-3AC. Acceptance criteria: If logged in user can update where their task belongs in the task matrix.
-  
-4. As a User, I want to be able to update my task information, so I can edit my tasks accordingly to my situation. 
-
-4AC. Acceptance criteria: If logged in user can chante their task information individually.
-
-5. As a User, I want to be able to log in/log out so my task tracking is only showing my tasks. 
-
-5AC. Acceptance criteria: If logged in user can log in, and log out.
-
-6. As a user, I want to be able to integrate with github projects. 
-
-6AC. Acceptance criteria: If a logged in user can see the tasks on github projects.
-
-7. As a User, I want to be able to check off my tasks. 
-
-7AC. Acceptance criteria: If a logged in user can check and uncheck tasks as completed or in progress.
-
-8. As a User, I want to be able to review my tasks that I have checked off. 
-8AC. Acceptance criteria: If the user can read and edit completed tasks. 
-
-# Mis-user stories
+##User Stories section
+User-Stories The user stories identify a user role, goal, and rationale that dictates a user’s behavior in the product to be created or assessed.
+#User Stories
+As a user/role, I want to goal so I can rationale. 0. As a User, I want to be able to read tasks, so that I can read my tasks.
+1.	As a User, I want to be able to add tasks, so I can create a matrix.
+2.	As a User, I want to be able to delete tasks, so I can update the matrix to be the most accurate.
+3.	As a User, I want to be able to update the prioity of a task, so I can tell what tasks are the most important
+4.	As a User, I want to be able to update my task information, so I can edit my tasks accordingly to my situation.
+5.	As a User, I want to be able to log in/log out so my task tracking is only showing my tasks.
+6.	As a user, I want to be able to integrate with github projects.
+7.	As a User, I want to be able to check off my tasks, and place them in a completed tasks section for review.
+8.	As a User, I want to be able to review my tasks that I have checked off.
+#User stories Acceptance criteria
+1.	As a User, I want to be able to read tasks, so that I can read my tasks.
+1.1.	 Acceptance criteria: If logged in user can view their tasks effectively.
+2.	As a User, I want to be able to add tasks, so I can create a matrix.
+2.1.	 Acceptance criteria: If logged in user can add a task to a particular category.
+3.	As a User, I want to be able to delete tasks, so I can update the matrix to be the most accurate.
+3.1.	 Acceptance criteria: If logged in user can can delete a task that is no longer relevent.
+4.	As a User, I want to be able to update the prioity of a task, so I can tell what tasks are the most important
+4.1.	 Acceptance criteria: If logged in user can update where their task belongs in the task matrix.
+5.	As a User, I want to be able to update my task information, so I can edit my tasks accordingly to my situation.
+5.1.	 Acceptance criteria: If logged in user can chante their task information individually.
+6.	As a User, I want to be able to log in/log out so my task tracking is only showing my tasks.
+6.1.	 Acceptance criteria: If logged in user can log in, and log out.
+7.	As a user, I want to be able to integrate with github projects.
+7.1.	 Acceptance criteria: If a logged in user can see the tasks on github projects.
+8.	As a User, I want to be able to check off my tasks.
+8.1.	 Acceptance criteria: If a logged in user can check and uncheck tasks as completed or in progress.
+9.	As a User, I want to be able to review my tasks that I have checked off. 
+9.1.	 Acceptance criteria: If the user can read and edit completed tasks.
+#Mis-user stories
 In addition to the user stories identify the ways in which users might be able to mis-use your app. Mis-user stories are just like user stories except the user, goal, and rationale are malicious.
+1.	As a malicious user, I want to log in to someone elses acount, to change their tasks.
+2.	As a malicious user, I want to intercept communication with a Machine in the Middle attack. 
+3.	As a malicious user, I want to inject SQL commands that will allow manipulation of the database
+4.	As a malicious user, I want to use the API endpoints so retrieve or manipulate data I’m not supposed to have access to. 
+5.	As a malicious user, Weak Password Exploit
+#Mis-User stories acceptance criterial 
+Acceptance Criteria for Mis-User stories is going to end up a bit different, as we’ll define a clear success case from a mis user, as well as a defense against that malicious action. 
 
-0. 
-1. As a malicious user, I want to be able to log in to someone elses acount, to change their tasks. 
-2. As a malicious user, I want to be able to MIM to spy or change someone elses's tasks. 
-
-
+1.	As a malicious user, I want to log in to someone else’s account, to change their tasks.
+1.1.	Acceptance Criteria: Malicious User successfully uses stolen Credentials to access someone else’s account
+1.1.1.	Multi Factor Authentication – this decreases the chances of a unintended user dramatically. 
+1.1.2.	Password Policies – Having strong password policies with sufficient enough complexity will help depend against unauthorized Account Access. 
+1.1.3.	Lockouts – Timed lockouts that increase unless an authorized email resets the account credentials. 
+1.1.4.	Authentication Mechanisms – this is similar to implementing the email a verification code. This means an attacker would have to have multiple authorization points compromised in order to successfully complete a Unauthorized Account Access. 
+2.	As a malicious user, I want to intercept communication with a Machine in the Middle attack. 
+2.1.	Acceptance Criteria User intercepts communication for credential access or to view user’s activity. 
+2.1.1.	Encryption - HTTPS (More secure HTTP) and TLS(Transport Layer Seurity Specifically 
+2.1.1.1.	Github is already implementing HTTPS
+2.1.2.	SSL (Secure Socket Layer) - for certificates though it may be an over stretch
+2.1.3.	Audit – Red teaming to find the vulnerabilities as they appear
+3.	As a malicious user, I want to inject SQL commands that will allow manipulation of the database 
+3.1.	Acceptance Criteria Utilizing SQL commands unathorized manipulation of the database occurse
+3.1.1.	Input Sanitization – if a user can’t utilize common SQL queries they can’t be entered by abnormal means. 
+3.1.2.	Error handling – the database should only print out database error details in specific cases for specific accounts
+3.1.3.	Database Role Permission – only set users should be able to see certain database information. 
+4.	As a malicious user, I want to use the API endpoints so retrieve or manipulate data I’m not supposed to have access to.
+4.1.	Acceptance Criteria Malicious user uses API endpoints to achieve Create Read Update and Delete access to accounts outside of their own. 
+4.1.1.	API authentication – API keys for API requests
+4.1.1.1.	Github may have this enabled already
+4.1.2.	Input Validation – Similar to above, make sure that only validated input can be used in API inputs
+4.1.2.1.	Check API endpoints from what we learned in the Postman labs. 
+4.1.3.	Audit and Logging – As a part of access control, logging who is making what queries is necessary for more sensitive information. 
+5.	As a malicious user, I want to take advantage of weak passwords to gain access to other users tasks. 
+5.1.	Acceptance Criteria 
+5.1.1.	Password Strength indicators – Show how well a User’s passwords will stand up to various attacks.
+5.1.1.1.	This is something I think Github also does already  
+5.1.2.	Disallow bad passwords – common passwords and passwords that repeat the username, or fail to meet a certain criteria. 
+5.1.3.	Password Rotation – change the password fully every 3 months. Don’t allow the same password. 
