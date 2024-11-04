@@ -156,6 +156,11 @@ Add and Edit tasks
 
 ![alt text](https://github.com/HatmanW/TaskTrackerExpansion/blob/main/docs/Add%20and%20Edit%20Mockup.jpg?raw=true)
 
+Login Page
+
+![alt text](https://github.com/HatmanW/TaskTrackerExpansion/blob/main/docs/Login.jpg?raw=true)
+
+
 # LICENSE
 The MIT License (MIT)
 
