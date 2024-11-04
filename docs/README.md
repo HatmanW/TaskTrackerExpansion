@@ -12,7 +12,9 @@ git clone https://github.com/HatmanW/TaskTrackerExpansion
 ## Getting Started
 To run Task Tracker,
 ```bash
-docker-compose up
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
 ```
 
 ## User Stories section
