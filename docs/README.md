@@ -150,7 +150,11 @@ Acceptance Criteria for Mis-User stories is going to end up a bit different, as 
 # Mockup
 A early mockup of how the task tracker final product will look like.
 
-![alt text](https://github.com/HatmanW/TaskTrackerExpansion/blob/main/docs/Mockup.jpg?raw=true)
+![alt text](https://github.com/HatmanW/TaskTrackerExpansion/blob/main/docs/Full%20Mockup.jpg?raw=true)
+
+Add and Edit tasks
+
+![alt text](https://github.com/HatmanW/TaskTrackerExpansion/blob/main/docs/Add%20and%20Edit%20Mockup.jpg?raw=true)
 
 # License
 The MIT License (MIT)
