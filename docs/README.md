@@ -2,7 +2,7 @@
 Task Tracker Expansion is a task tracker addon for Github Project that allow users to organizes tasks in a Eisenhower Matrix
 
 ## Installation
-First install Python, Pip, and Docker.
+Install Python 
 
 Then from your target directory:
 ```bash
@@ -156,7 +156,7 @@ Add and Edit tasks
 
 ![alt text](https://github.com/HatmanW/TaskTrackerExpansion/blob/main/docs/Add%20and%20Edit%20Mockup.jpg?raw=true)
 
-# License
+# LICENSE
 The MIT License (MIT)
 
 Copyright (c) John B. Winchester, Tyler S. McCoid 2024
