@@ -145,6 +145,9 @@ Acceptance Criteria for Mis-User stories is going to end up a bit different, as 
 
 5.1.3.	Password Rotation – change the password fully every 3 months. Don’t allow the same password. 
 
+# Mockup
+A early mockup of how the task tracker final product will look like.
+![alt text](https://github.com/HatmanW/TaskTrackerExpansion/blob/main/docs/Mockup.jpg?raw=true)
 
 # License
 The MIT License (MIT)
