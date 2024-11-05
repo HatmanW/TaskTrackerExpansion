@@ -1,5 +1,29 @@
 # TaskTrackerExpansion
 Task Tracker Expansion is a task tracker addon for Github Project that allow users to organizes tasks in a Eisenhower Matrix
+The Eisenhower Matrix has a lot of literature but no one really visualizes it correctly. 
+
+Asana's how to on the Eisenhower Matrix
+
+Asana puts the Eisenhower Matrix best:
+
+"The Eisenhower Matrix is a task management tool that prioritizes tasks by urgency and importance. 
+The tool divides tasks into four boxes based on what to do first, what to schedule, what to delegate, what to not do."
+
+
+
+https://asana.com/resources/eisenhower-matrix
+
+Todoist's Video on how to use the Eisenhower Matrix. 
+https://todoist.com/productivity-methods/eisenhower-matrix
+
+
+
+Some observations I've had when using the matrix, specifically on the delete section. 
+If you feel a task is important enough to write down, it may change priority as time goes on. 
+You may find the task was more important or is now more urgent, but you will see that much of the tasks change locations as priorities and urgency change. This is by design. 
+By sectioning things accordingly it's easy for someone to keep track of their tasks, and allows you to focus on one section of your tasks at once time rather then strictly time, or strictly urgency, or how other sorting methods work. 
+it's also a different mentality of putting something in 'delete' instead of "don't do" so that you can potentially be aware of the task, but not deleteing the task from your tasks when the task may change urgency or importance.
+
 
 ## Installation
 Install Python 
