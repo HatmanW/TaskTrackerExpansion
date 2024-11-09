@@ -184,6 +184,17 @@ Login Page
 
 ![alt text](https://github.com/HatmanW/TaskTrackerExpansion/blob/main/docs/Login.jpg?raw=true)
 
+# Architecture diagrams
+Level 1
+![alt text](https://github.com/HatmanW/TaskTrackerExpansion/blob/main/docs/ExtendedTaskTrackerLvl1.png)
+
+Level 2
+![alt text](https://github.com/HatmanW/TaskTrackerExpansion/blob/main/docs/ExtendedTaskTrackerLvl2.png)
+
+Level 3
+![alt text](https://github.com/HatmanW/TaskTrackerExpansion/blob/main/docs/ExtendedTaskTrackerLv3.png)
+
+Note: that these will be update as we uncover a lot of the information on Github's technology stacks and how best to integrate them with the Django application. 
 
 # LICENSE
 The MIT License (MIT)
