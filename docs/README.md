@@ -197,6 +197,9 @@ Level 3
 Note: that these will be update as we uncover a lot of the information on Github's technology stacks and how best to integrate them with the Django application. 
 
 # LICENSE
+AI disclaimer: 
+This project includes code generated using OpenAI's ChatGPT, which was modified to suit the specific requirements of this project.
+
 The MIT License (MIT)
 
 Copyright (c) John B. Winchester, Tyler S. McCoid 2024
