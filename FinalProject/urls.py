@@ -15,14 +15,20 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
+
 from django.shortcuts import render
 from django.urls import path, include
+from django.contrib.auth.decorators import login_required
 
+@login_required
 def home(request):
-    return render(request, 'home.html')
+    return render(request, 'TaskTracker/home.html')
+
 
 urlpatterns = [
-    path('', home),
     path('admin/', admin.site.urls),
     path('accounts/', include('allauth.urls')),
+    path('', include('TaskTracker.urls')),  # points to TaskTracker instead of a blank webpage
 ]
+
+
